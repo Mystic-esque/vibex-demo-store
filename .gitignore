@@ -1,0 +1,5 @@
+node_modules
+.next
+tests-results-vibex
+playwright-report
+test-results
